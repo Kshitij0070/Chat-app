@@ -19,15 +19,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f2f2f2;
+    background-color: #e1dd61;
 }
 
 #container {
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: white;
+    box-shadow: 0 0 10px rgba(8, 0, 0, 0.1);
+    background-color: rgb(238, 117, 115);
 }
 
 #messages {
@@ -37,7 +37,7 @@ body {
 
 #messages li {
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #f40000;
 }
 
 #form {
@@ -56,9 +56,9 @@ body {
 }
 
 button {
-    padding: 5px 15px;
-    background-color: #007bff;
-    color: white;
+    padding: 10px 25px;
+    background-color: #4cf939;
+    color: rgb(0, 0, 0);
     border: none;
     font-size: 16px;
     cursor: pointer;
